@@ -1,37 +1,695 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/nilosiqueira/nilosiqueira.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" type="image/png" href="/img/rebeca-r.png"/>
 
-### Markdown
+    <title>Rebeca Saraí</title>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css" type="text/css">
 
-```markdown
-Syntax highlighted code block
+    <!-- Custom Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
 
-# Header 1
-## Header 2
-### Header 3
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="/css/animate.min.css" type="text/css">
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/simple-line-icons/css/simple-line-icons.css">
+    <link rel="stylesheet" href="/vendor/device-mockups/device-mockups.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
 
-- Bulleted
-- List
+    <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/master/devicon.min.css">
 
-1. Numbered
-2. List
+    <!-- Custom CSS
+    <link rel="stylesheet" href="css/main.css" type="text/css"> -->
+    <link href="/css/main.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
 
-**Bold** and _Italic_ and `Code` text
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Google ADS mobile block -->
+    <script src="/js/headerWords.js"></script>
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-2005705144805240",
+        enable_page_level_ads: true
+        });
+    </script>
+    
 
-[Link](url) and ![Image](src)
-```
+    
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</head>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nilosiqueira/nilosiqueira.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<body id="page-top">
+  <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#page-top">Rebeca Saraí</a>
+        </div>
 
-### Support or Contact
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                  <a class="page-scroll" href="/funds">Help the projects</a>
+              </li>
+                <!--<li>
+                    <a class="page-scroll" href="#download">Download</a>
+                </li>-->
+                <li>
+                    <a class="page-scroll" href="#services">skills</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#portfolio">Portfolio</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#why">Why</a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#contact">Contact</a>
+                </li>
+                <li>
+                    <a href="/blog/">Blog</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <header id="gradient">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                
+                    <div class="header-content">
+
+                    
+                    <!--<div class="header-content-inner">
+
+
+
+							<div class="text">
+                          <h1>Passion for</h1>
+                         <h1>
+                            <span class="word wisteria"> Security.</span>
+                            <span class="word belize"> Mobile Dev.</span>
+                            <span class="word pomegranate "> Web Dev.</span>
+                            
+                            <span class="word green"> UX-UI.</span>
+                            <span class="word midnight"> Animation.</span>
+                          </h1>
+                           <h3>"The art challenges the technology, and the technology inspires the art." - John Lasseter (Director)
+                            </h3>
+                        </div>-
+
+                     
+
+                        	
+                        </div>-->
+
+                         <div id="quoteDisplay">
+                        <h1 class="quotess">
+                        	“The best way to predict the future is to create it.”
+                        	<h3 class="author">- Peter Drucker</h3>
+
+								
+                        </h1></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+ <!-- <section id="download" class="download bg-primary text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Discover what all the buzz is about!</h2>
+                <p>Our app is available on any mobile device! Download now to get started!</p>
+                <div class="badges">
+                    <a class="badge-link" href="#"><img src="/img/google-play-badge.svg" alt=""></a>
+                    <a class="badge-link" href="#"><img src="/img/app-store-badge.svg" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+-->
+  <!-- Services Section -->
+    <section id="services" class="services2">
+        <div class="container">
+        <div class="row">
+                
+                <div class="col-sm-12">
+                    <div class="team-member">
+                        <img src="img/rebeca3.jpg" class="img-responsive img-circle cented" alt="">
+                        
+                    </div>
+                </div>
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading skills">Skills</h2>
+                    <h3 class="section-subheading text-muted">Some of my oustanding skills so far.</h3>
+                </div>
+            </div>
+
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-4">
+                    <i class="devicon-php-plain colored"></i>
+                    <h4 class="service-heading">PHP</h4>
+                    <div class="barWrapper">
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                          <span  class="popOver" data-toggle="tooltip" data-placement="top" title="75%"> </span> 
+                      </div>
+                    </div>
+                    </div>
+                   <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    
+                    <img class="logos-servicios1" src="/img/logos/responsive.png">
+                    <h4 class="service-heading">Responsive Design</h4>
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">
+                          <span  class="popOver" data-toggle="tooltip" data-placement="top" title="95%"> </span>  
+                      </div>
+                    </div>
+                    </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <img class="logos-servicios" src="/img/logos/locked-2.png">
+                    <h4 class="service-heading">Web Security</h4>
+                    <div class="barWrapper">
+                     
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">
+                             <span  class="popOver" data-toggle="tooltip" data-placement="top" title="80%"> </span>  
+                      </div>
+                    </div>
+                    </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-4">
+                    <i class="devicon-ruby-plain colored"></i>
+
+
+                    <h4 class="service-heading">Ruby</h4>
+
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+                             <!--<span  class="popOver" data-toggle="tooltip" data-placement="top" title="55%"> </span>  -->
+                      </div>
+                    </div>
+                    </div>
+                   <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <i class="devicon-javascript-plain colored"></i>
+                    <h4 class="service-heading">JavaScript</h4>
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">
+                             <!--<span  class="popOver" data-toggle="tooltip" data-placement="top" title="55%"> </span>  -->
+                      </div>
+                    </div>
+                    </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                     <img class="logos-servicios2" src="/img/logos/smartphone-8.png">
+
+                    <h4 class="service-heading">Mobile Apps</h4>
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">
+                            <!-- <span  class="popOver" data-toggle="tooltip" data-placement="top" title="55%"> </span>  -->
+                      </div>
+                    </div>
+                    </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-4">
+                    <i class="devicon-java-plain colored"></i>
+                    <h4 class="service-heading">Java</h4>
+
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+                             
+                      </div>
+                    </div>
+                    </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <i class="devicon-css3-plain colored"></i>
+                    <h4 class="service-heading">CSS3 Animations</h4>
+                    <div class="barWrapper">
+ 
+                    <div class="progress">
+                      <div class="progress-bar" role="progressbar" aria-valuenow="91" aria-valuemin="0" aria-valuemax="100">
+                      </div>
+                    </div>
+                    </div>
+                   <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-2x">
+                        <i class="devicon-python-plain colored"></i>
+                    </span>
+                    <h4 class="service-heading">Big Data</h4>
+                 <div class="barWrapper">
+                 
+                <div class="progress">
+                  <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+                  </div>
+                </div>
+                </div>
+                    <!-- <p class="text-muted">Laravel and PHPCake</p>-->
+                </div>
+            </div>
+
+              
+
+  
+
+            <!--
+            <div class="row text-center">
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">E-Commerce</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Responsive Design</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Web Security</h4>
+                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                </div>
+            </div>-->
+        </div>
+    </section>
+  
+<section id="portfolio" class="download bg-primary text-center">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">The latest! <i style="color:#21cddb" class="fa fa-bolt"></i></h2>
+                <p>See what I have been working on</p>
+                <hr>
+                
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- jekynewage -->
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-2005705144805240"
+                    data-ad-slot=""
+                    data-ad-format="auto"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="no-padding" id="portfolio">
+    <div class="container-fluid">
+        <div class="row no-gutter">
+
+             <div class="col-lg-4 col-sm-4">
+                <a href="https://thinkbigjovenes.fundaciontelefonica.com/proyectos/braille-writer" class="portfolio-box">
+                    <img src="/img/portfolio/bw-portafolio.png" class="img-responsive" alt="braille-writer">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Web App
+                            </div>
+                            <div class="project-name">
+                                Braille Writter Web
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-lg-4 col-sm-4">
+                <a href="https://thinkbigjovenes.fundaciontelefonica.com/proyectos/braille-writer" class="portfolio-box">
+                    <img src="/img/portfolio/logo-bw.png" class="img-responsive" alt="braille-writer">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Cross Plataform App
+                            </div>
+                            <div class="project-name">
+                                Braille Writter
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+           
+            <div class="col-lg-4 col-sm-4">
+                <a href="https://github.com/Rebecasarai/Agrolocal" class="portfolio-box">
+                    <img src="/img/es.png" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Empowering workers and users. Hack for Goods.
+                            </div>
+                            <div class="project-name">
+                                Agrolocal
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            </div>
+
+            <div class="row no-gutter">
+            <div class="col-lg-4 col-sm-4">
+                <a href="http://vida-y-salud.net/" class="portfolio-box">
+                    <img src="/img/vida-y-salud.png" class="img-responsive" alt="braille-writer">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                E-commerce
+                            </div>
+                            <div class="project-name">
+                                Vida y Salud
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-lg-4 col-sm-4">
+                <a href="#" class="portfolio-box">
+                    <img src="/img/portfolio/3.png" class="img-responsive" alt="">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Web App Development
+                            </div>
+                            <div class="project-name">
+                                Real States Page
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-4">
+                <a href="http://marymary.es/" class="portfolio-box">
+                    <img src="/img/portfolio/marymary.jpg" class="img-responsive" alt="marymary">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Web Development and Design
+                            </div>
+                            <div class="project-name">
+                                Mary Mary
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            </div>
+
+            <div class="row no-gutter">
+            <div class="col-lg-4 col-sm-4">
+                <a href="http://huertadelbienestar.com/" class="portfolio-box">
+                    <img src="/img/portfolio/huerta.jpg" class="img-responsive" alt="bienestar">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Web Development
+                            </div>
+                            <div class="project-name">
+                                La Huerta del Bienestar
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-sm-4">
+                <a href="#" class="portfolio-box">
+                    <img src="/img/portfolio/abc.jpg" class="img-responsive" alt="abcTravel">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                Web development
+                            </div>
+                            <div class="project-name">
+                                ABC Travel Morocco
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+  <section id="why">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">At Your Service</h2>
+                <hr class="primary">
+                <br />
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-diamond wow bounceIn text-primary"></i>
+                    <h3>Quality</h3>
+                    <p class="text-muted">I'm always looking for the best in every single project that I'm involve.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                    <h3>Ready to Ship</h3>
+                    <p class="text-muted">You will be avaible to use my social projects everywhere!</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                    <h3>Up to Date</h3>
+                    <p class="text-muted">I update dependencies to keep things fresh.</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                    <h3>Made with Love</h3>
+                    <p class="text-muted">I love doing what I do! Everytime.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+   <section id="contact" class="contact bg-primary">
+     <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Do you want a Mobile or Web app?</i></h2>
+                <a href="mailto:becahere@gmail.com?" target="_top" class="btn btn-outline btn-xl page-scroll">Contact me!</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <section class="cta">
+    <div class="cta-content">
+        <div class="container">
+            <h2>Help it. By<br>little actions.</h2>
+            <a href="/funds" class="btn btn-outline btn-xl page-scroll">How I can?!</a>
+        </div>
+    </div>
+    <div class="overlay"></div>
+</section>
+
+ 	
+<section id="quote1" class="bg-primary text-center">
+<!--<ul class="social-nav model-3d-0">
+  <li>
+    <a href="https://twitter.com/codelovr" class="twitter">
+      <div class="front"><i class="fa fa-twitter"></i></div>
+      <div class="back"><i class="fa fa-twitter"></i></div>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/rebeca-programming" class="facebook">
+      <div class="fornt"><i class="fa fa-facebook"></i></div>
+      <div class="back"><i class="fa fa-facebook"></i></div>
+    </a>
+  </li>
+  
+  <li>
+    <a href="https://www.linkedin.com/in/rebeca-programming" class="linkedin">
+      <div class="front"><i class="fa fa-linkedin"></i></div>
+      <div class="back"><i class="fa fa-linkedin"></i></div>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.instagram.com/code.lovr" class="instagram">
+      <div class="front"><i class="fa fa-instagram"></i></div>
+      <div class="back"><i class="fa fa-instagram"></i></div>
+    </a>
+  </li>
+</ul>-->
+
+<!--<div class="social-btns"><a class="btn facebook" href="#"><i class="fa fa-facebook"></i></a><a class="btn twitter" href="#"><i class="fa fa-twitter"></i></a><a class="btn google" href="#"><i class="fa fa-google"></i></a><a class="btn dribbble" href="#"><i class="fa fa-dribbble"></i></a><a class="btn skype" href="#"><i class="fa fa-skype"></i></a>
+</div>-->
+
+<div class="container">
+ <div class="row">
+    
+    <ul class="social">
+
+      <li class="facebook"><a href="https://www.facebook.com/" class="entypo-facebook"><i class="fa fa-facebook fa-lg"></i></a></li>
+      <li class="twitter"><a href="https://twitter.com/codelovr" class="entypo-twitter"><i class="fa fa-twitter fa-lg"></i></a></li>
+      <li class="dribbble"><a href="https://www.instagram.com/code.lovr" class="entypo-dribbble"><i class="fa fa-instagram fa-lg"></i></a></li>
+      <li class="behance"><a href="https://github.com/Rebecasarai" class="entypo-behance"><i class="fa fa-github fa-lg"></i></a></li>
+      <li class="linked-in"><a href="https://www.linkedin.com/in/rebeca-programming" class="entypo-linkedin"><i class="fa fa-linkedin fa-lg"></i></a></li>
+
+    </ul>
+    </div>
+
+
+  </div> <!-- end container -->
+  
+
+
+
+    <div class="container stay">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">Stay in touch! <i style="color:#21cddb"class="fa fa-globe"></i></h2>
+                <p>See me around</p>
+            </div>
+        </div>
+    </div>
+    
+</section>
+<footer>
+    <div class="container">
+        <p>&copy; 2017 <a rel="nofollow" target="blank" href="https://github.com/Rebecasarai">Rebeca Saraí</a> Built with <a target="_blank" rel="nofollow" href="https://jekyllrb.com/">Jekyll</a> and hosted on <a target="_blank" rel="nofollow" href="https://github.com/Rebecasarai/rebecasarai.github.io">Github</a>.</p>
+       <!-- <ul class="list-inline">
+            <li>
+                <a href="#">Privacy</a>
+            </li>
+            <li>
+                <a href="#">Terms</a>
+            </li>
+            <li>
+                <a href="#">FAQ</a>
+            </li>
+        </ul>-->
+    </div>
+</footer>
+
+  <!-- jQuery -->
+<script src="/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript
+<script src="js/bootstrap.min.js"></script> -->
+
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+<script src="/js/jquery.fittext.js"></script>
+<script src="/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/headerWords.js"></script>
+<script src="/js/creative.js"></script>
+<script src="/js/progressbar.js"></script>
+<script src="/js/quotes.js"></script>
+
+<script type="text/javascript" src="/js/background.js"></script>
+
+
+<!-- jQuery
+<script src="/vendor/jquery/jquery.min.js"></script> -->
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+<!-- Theme JavaScript -->
+<script src="/js/new-age.min.js"></script>
+
+
+
+</body>
+
+</html>
