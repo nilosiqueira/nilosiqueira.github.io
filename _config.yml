@@ -34,13 +34,13 @@ color:
 footer:
   copyright: Nilo Siqueira
   location: Esplanada BA
-  social: Facebook
+  social: Rede Sociais
   credits: By Nilo Siqueira
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/nilosiqueira
   - title: facebook
     url: https://www.facebook.com/nilosiqueiratj
   - title: stack-overflow
@@ -48,7 +48,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/nilosiqueira
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +56,7 @@ address:
   - line: Esplanada BA
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: ' Portifólio criado com o framework Bootstrap<a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
