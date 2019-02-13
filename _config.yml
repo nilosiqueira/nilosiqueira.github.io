@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rua da Estação, 9997
-  - line: Esplanada BA
+  - line: Rua Nilo Lopes Siqueira, 120
+  - line: Resende RJ
 
 # Credits content
 credits: ' Portifólio criado com o framework Bootstrap<a href="http://startbootstrap.com">Start Bootstrap</a>.'
